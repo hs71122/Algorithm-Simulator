@@ -12,7 +12,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author Harshana
+ * @author Harshana at freethemalloc.blogspot.com
  */
 public class SelectionSort extends javax.swing.JFrame {
 

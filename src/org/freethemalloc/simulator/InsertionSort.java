@@ -14,7 +14,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Harshana
+ * @author Harshana at freethemalloc.blogspot.com
  */
 public class InsertionSort extends javax.swing.JFrame {
 
